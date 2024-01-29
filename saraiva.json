@@ -1,0 +1,296 @@
+{
+    "menu": [
+        {
+            "label": "Livros",
+            "sub": [
+                {
+                    "label": "Administração e Negócios"
+                },
+                {
+                    "label": "HQ's e Mangás"
+                },
+                {
+                    "label": "Medicina"
+                },
+                {
+                    "label": "Direito"
+                },
+                {
+                    "label": "Ciências Exatas/Engenharia e Tecnologia"
+                },
+                {
+                    "label": "Linguística"
+                },
+                {
+                    "label": "Literatura Brasileira",
+                    "sub": [
+                        {
+                            "label": "Biografias e Memórias"
+                        },
+                        {
+                            "label": "Ficção Científica e Fantasia"
+                        },
+                        {
+                            "label": "Poesia"
+                        },
+                        {
+                            "label": "Policial e Suspense"
+                        },
+                        {
+                            "label": "Romance"
+                        },
+                        {
+                            "label": "Terror"
+                        },
+                        {
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Literatura Infantojuvenil",
+                    "sub": [
+                        {
+                            "label": "Livros para Colorir"
+                        },
+                        {
+                            "label": "Literatura Juvenil"
+                        },
+                        {
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Literatura Estrangeira",
+                    "sub": [
+                        {
+                            "label": "Biografias e Memórias"
+                        },
+                        {
+                            "label": "Poesia"
+                        },
+{
+                            "label": "Policial e Suspense"
+                        },
+{
+                            "label": "Romance"
+                        },
+{
+                            "label": "Terror"
+                        },
+  {
+                            "label": "Contos e Crônicas"
+                        },
+                        {
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Religião e Espiritualidade",
+                    "sub": [
+                        {
+                            "label": "Afrobrasileiras"
+                        },
+                        {
+                            "label": "Bíblias"
+                        },
+{
+                            "label": "Esoterismo"
+                        },
+{
+                            "label": "Teologia"
+                        },
+                        {
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Autoajuda",
+                    "sub": [
+                        {
+                            "label": "Desenvolvimento Pessoal"
+                        },
+                        {
+                            "label": "Relações Interpessoais"
+                        },
+                        {
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Didáticos",
+                    "sub": [
+                        {
+                            "label": "Ensino Fundamental I"
+                        }
+                    ]
+                },
+                {
+                    "label": "Psicologia",
+                    "sub": [
+                        {
+                            "label": "Psicologia e Psicanálise"
+                        }
+                    ]
+                },
+                {
+                    "label": "Ciências Humanas e Sociais",
+                    "sub": [
+                        {
+                            "label": "Filosofia"
+                        },
+{
+                            "label": "Política e Atualidades"
+                        },
+{
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Informática",
+                    "sub": [
+                        {
+                            "label": "Jogos"
+                        }
+                    ]
+                },
+                {
+                    "label": "Ciências Biológicas e Medicina",
+                    "sub": [
+                        {
+                            "label": "Psiquiatria"
+                        },
+{
+                            "label": "Biologia"
+                        },
+{
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Gastronomia",
+                    "sub": [
+                        {
+                            "label": "Culinária"
+                        },
+{
+                            "label": "Chefs"
+                        },
+{
+                            "label": "Dietas"
+                        },
+{
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Artes",
+                    "sub": [
+                        {
+                            "label": "Teatro"
+                        },
+{
+                            "label": "Música"
+                        },
+{
+                            "label": "Ver tudo"
+                        }
+                    ]
+                },
+                {
+                    "label": "Esportes e Lazer/Turismo",
+                    "sub": [
+                        {
+                            "label": "Esportes e Lazer"
+                        }
+                    ]
+                },
+                {
+                    "label": "Geografia e História",
+                    "sub": [
+                        {
+                            "label": "História do Brasil"
+                        },
+{
+                            "label": "História Mundial"
+                        },
+{
+                            "label": "Ver tudo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Brinquedos",
+            "sub": [
+                {
+                    "label": "Quebra Cabeças"
+                },
+                {
+                    "label": "Puzzles Importados"
+                },
+                {
+                    "label": "Bonecos e Bonecas"
+                },
+                {
+                    "label": "Bicicleta"
+                },
+                {
+                    "label": "Faz de Conta"
+                },
+                {
+                    "label": "Instrumentos Musicais"
+                },
+                {
+                    "label": "Massa de Modelar"
+                },
+                {
+                    "label": "Mini Veículos"
+                },
+                {
+                    "label": "Montar e Construir"
+                },
+                {
+                    "label": "Pelúcias"
+                },
+                {
+                    "label": "Playground"
+                },
+                {
+                    "label": "Brinquedos"
+                },
+                {
+                    "label": "Jogos",
+                    "sub": [
+                        {
+                            "label": "Jogos de Cartas"
+                        },
+                        {
+                            "label": "Jogos de Tabuleiro"
+                        },
+                        {
+                            "label": "Jogos de Estratégia"
+                        },
+                        {
+                            "label": "Jogos Infantis"
+                        },
+                        {
+                            "label": "Jogos Educativos"
+                        },
+                        {
+                            "label": "ver tudo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
